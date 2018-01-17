@@ -15,11 +15,6 @@ public class addition_input {
 	
 	int sum=n+p;
 	
-	System.out.println("your additional value is "+ sum);
-		
-		
-		
-		
+	System.out.println("your additional value is "+ sum);	
 	}
-
 }

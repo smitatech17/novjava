@@ -41,15 +41,19 @@ public class Double_array {
 		
 		for(int rownum=0; rownum<rows; rownum++) {
 			
-			//argument for column
+		//argument for column
 			
-			for(int colnum=0; colnum<columns; colnum++) {
+		for(int colnum=0; colnum<columns; colnum++) {
 				
-				//argument for printing rows and columns together
+		//argument for printing rows and columns together
 				
-				System.out.println(flights[rownum][colnum]);
+		System.out.println(flights[rownum][colnum]);
 				
+				//for ( int x=0; x<flights.length; x++) {
 						
+				//for (int y=0; y<flights [0].length; y++){
+				
+				//System.out.println(flights[x][y]);	
 			}
 			
 		}

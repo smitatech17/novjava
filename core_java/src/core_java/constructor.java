@@ -9,6 +9,8 @@ public class constructor {
 	int salary; //default values are 0,0,0, null
 	int house;
 	String name;
+	// the purpose of constructor is to rewrite your default values.
+	//constructor variables always have to be non-static.
 	
 	constructor(){
 	
@@ -27,7 +29,8 @@ public class constructor {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		constructor x=new constructor();   //we are executing the constructor method with the object 
+		constructor x=new constructor();//we are executing the constructor method with the object 
+		
 	}
 
 }

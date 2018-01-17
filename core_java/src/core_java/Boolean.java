@@ -18,11 +18,7 @@ public class Boolean {
 		System.out.println(a<c);
 		System.out.println(a==c);
 		System.out.println(a>c);
-		
-		
-		
-		
-		
+			
 	}
 
 }

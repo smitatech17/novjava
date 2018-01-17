@@ -37,21 +37,7 @@ public class If_else {
 		System.out.println("a and i are not the same");
 	else
 		System.out.println("a and i are the same");
-	
-	
-	
-	
-	
-	
-		
-		
-		
-		
-		
-		
-		
-		
-		
+			
 	}
 
 }

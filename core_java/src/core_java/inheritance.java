@@ -10,12 +10,7 @@ public class inheritance extends Non_static {
 	inheritance y=new inheritance();
 		y.car();
 		y.flower();
-		y.school();
-		
-		
+		y.school();	
 			
 	}
-
-
-
 }

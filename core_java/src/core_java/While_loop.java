@@ -7,14 +7,13 @@ public class While_loop {
 
 		
 		int x=0; 
-		while( x < 20 ){
+		while( x < 20 ){ // condition
 		System.out.println(x);
 		
-		x++;
+		x++; //increasing
 		}
 		
-	
-		
+			
 	}
 
 }

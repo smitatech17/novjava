@@ -25,18 +25,9 @@ public class Break_Switch {
 			default:
 				System.out.println("i don't know your age");
 				break;
-				
-		
 		
 		}
-		
-		
-		
-		
-		
-		
-		
-		
+			
 	}
 
 }

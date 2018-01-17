@@ -9,8 +9,7 @@ public class Function {
 		country();
 		age();
 		growth();	
-		
-		
+				
 	}
 public static void country()
 {
@@ -37,10 +36,6 @@ public static void growth()
 	case 3:
 		System.out.println("you can walk");
 		break;
-}
-	
-	
-	
-	
+}	
 }
 }
